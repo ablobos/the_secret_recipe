@@ -203,33 +203,33 @@ html {
  }
 
 
- /* Movies */
-.movies-container {
+ /* Recipes */
+.recipes-container {
   display:flex;
   width:100%;
   padding:20px;
   justify-content: center;
 }
 
-.movies-container .box {
+.recipes-container .box {
   padding: 20px;
   width:75%;
   min-height: 600px;
   background: linear-gradient(0deg, rgba(100, 0, 0, 0) 0%, black 100%);
 }
 
-.movies-container .box .photo {
+.recipes-container .box .photo {
   float:left;
   width:40%;
   padding:20px;
 }
 
-.movies-container .box .info {
+.recipes-container .box .info {
   float:left;
   width:60%;
   padding:20px;
 }
 
-.movies-container .box .info h1 {
+.recipes-container .box .info h1 {
   text-align:left;
 }
